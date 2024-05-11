@@ -1,9 +1,11 @@
-public class 
-main{
-	public class void main
+public class Login {
+	
+	Public static void main(Ssting args[])
 	{
-	for i=10
-	print("number");
-}
-}
+		int a;
 
+		for(i=0;i<=10;i++) {
+			System.out.println("Number: " + i");
+		}
+	}
+}
