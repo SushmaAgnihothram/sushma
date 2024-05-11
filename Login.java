@@ -1,6 +1,6 @@
 public class Login {
 	
-	Public static void main(Ssting args[])
+	Public static void main(Sting args[])
 	{
 		int a;
 
